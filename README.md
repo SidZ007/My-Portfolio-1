@@ -6,7 +6,7 @@ This is my personal portfolio website built using HTML. It currently displays a 
 - HTML
 - Spck Editor (Android)
   ## 🌐 Live Site
-[Click to view the portfolio]( )
+[Click to view the portfolio](https://sidz007.github.io/My-Portfolio-1/)
   - ## 📌 Upcoming Features
     - About Me section
     - Projects showcase
